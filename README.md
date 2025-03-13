@@ -5,41 +5,41 @@
 - Inwang ubong Marshal (222092371)
 
 ## Project Overview
-This project involves setting up a simple web server using **Node.js** and **Express.js** to serve a static HTML page. The purpose of this task is to familiarize students with setting up a Node.js environment, creating a web server, and hosting a webpage using Express.js.
+Establishing a simple web server by combining **Node.js** with **Express.js** for static HTML hosting is the main task addressed in this project. The assignment consists of teaching students Node.js setup procedures and web server creation together with Express.js-based webpage hosting practices which form its primary focus.
 
 ## Process Undertaken
 
 ### 1. Setting Up the GitHub Repository
-- A new repository named `sit737-2025-prac2p` was created on GitHub.
-- GitHub Codespaces was used as the development environment to facilitate cloud-based coding and testing.
+- Through GitHub the `sit737-2025-prac2p` repository was established as the new project management space.
+- User-employed GitHub Codespaces functioned as the development environment to enable cloud-based coding and testing.
 
-### 2. Initializing the Node.js Project
-- Node.js and npm were verified and installed in the GitHub Codespace.
-- A new Node.js project was initialized using `npm init -y`, generating a `package.json` file to manage project dependencies.
+### 2. Initialising the Node.js Project
+- The GitHub Codespace verified the installation of Node.js and npm.
+- The `package.json` file for project dependency management was automatically created through `npm init -y` command execution for initiating a new Node.js project.
 
 ### 3. Installing Dependencies
-- The `express` package was installed using `npm install express`, which is required to set up a lightweight web server.
+- Installation of `express` package through `npm install express` produced the necessary component for creating simple web server operations.
 
 ### 4. Creating the Web Server
-- A `server.js` file was created to define the Express.js server.
-- The server was configured to listen on port `3000` and serve static files from the `public` directory.
-- The Express.js `static` middleware was used to serve the HTML file.
+- A `server.js` file was established to shape the Express.js server implementation.
+- The server operated on port `3000` while it delivered static files located at the `public` directory.
+- The HTML file received its delivery through Express.js `static` middleware.
 
 ### 5. Developing the Web Page
-- A `public` directory was created to store the static content.
-- An `index.html` file was added inside `public`, containing basic HTML to be served by the server.
+- The program uses a `public` directory to function as the static content storage location.
+- The server serves the `index.html` located inside `public` through basic HTML content added to its file structure.
 
 ### 6. Running the Web Server
-- The server was started using `node server.js`.
-- The output confirmed that the server was running successfully and could be accessed via `http://localhost:3000`.
+- The server started operating through the `node server.js` execution.
+- The server successfully operated at `http://localhost:3000` after the output indicated successful server functionality.
 
 ### 7. Verifying the Web Page
-- The application was tested by forwarding **port 3000** in GitHub Codespaces.
-- The web page was loaded in a browser to confirm that the HTML file was served correctly.
+- A test of the application used **port 3000** forwarding within GitHub Codespaces.
+- A browser was used to load the page which confirmed that the HTML file transmitted correctly.
 
 ### 8. Committing and Pushing Code to GitHub
 - All project files were added to Git tracking using `git add .`.
-- Changes were committed with an appropriate message using `git commit -m "Initial commit: Node.js web server"`.
+- Changes were committed with an appropriate message using `git commit -m "Initial commit: SimpleNode.js web server"`.
 - The committed code was pushed to GitHub using `git push origin main`.
 
 ### 9. Submission
@@ -50,6 +50,3 @@ This project involves setting up a simple web server using **Node.js** and **Exp
 - **Express.js** - Framework used to build the web server.
 - **GitHub Codespaces** - Online development environment for coding and testing.
 - **Git** - Version control system used to manage project files.
-
-
-
