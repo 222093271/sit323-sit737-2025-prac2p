@@ -48,5 +48,5 @@ Establishing a simple web server by combining **Node.js** with **Express.js** fo
 ## Technologies Used
 - **Node.js** - JavaScript runtime environment for executing JavaScript code outside the browser.
 - **Express.js** - Framework used to build the web server.
-- **GitHub Codespaces** - Online development environment for coding and testing.
+- **VS Code** - Code development environment for coding and testing.
 - **Git** - Version control system used to manage project files.
