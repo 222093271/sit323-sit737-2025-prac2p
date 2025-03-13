@@ -5,24 +5,24 @@
 - Inwang ubong Marshal (222092371)
 
 ## Project Overview
-Establishing a simple web server by combining **Node.js** with **Express.js** for static HTML hosting is the main task addressed in this project. The assignment consists of teaching students Node.js setup procedures and web server creation together with Express.js-based webpage hosting practices which form its primary focus.
+Establishing a simple web server by combining **Node.js** with **Express.js** for static HTML hosting is the main task addressed in this project. The assignment consists of teaching students Node.js setup procedures and web server creation together with Express.js based webpage hosting practices which form its primary focus.
 
 ## Process Undertaken
 
 ### 1. Setting Up the GitHub Repository
-- Through GitHub the `sit737-2025-prac2p` repository was established as the new project management space.
+- Through GitHub, the `sit737-2025-prac2p` repository was established as the new project management space.
 - User-employed GitHub Codespaces functioned as the development environment to enable cloud-based coding and testing.
 
 ### 2. Initialising the Node.js Project
-- The GitHub Codespace verified the installation of Node.js and npm.
-- The `package.json` file for project dependency management was automatically created through `npm init -y` command execution for initiating a new Node.js project.
+- The terminal of VS code verified the installation of Node.js and npm.
+- The `package.json` file for project dependency management was automatically created through the `npm init -y` command execution for initiating a new Node.js project.
 
 ### 3. Installing Dependencies
-- Installation of `express` package through `npm install express` produced the necessary component for creating simple web server operations.
+- Installation of the `express` package through `npm install express` produced the necessary component for creating simple web server operations.
 
 ### 4. Creating the Web Server
 - A `server.js` file was established to shape the Express.js server implementation.
-- The server operated on port `3000` while it delivered static files located at the `public` directory.
+- The server operated on port `3000` while it delivered static files located in the `public` directory.
 - The HTML file received its delivery through Express.js `static` middleware.
 
 ### 5. Developing the Web Page
