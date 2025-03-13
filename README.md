@@ -11,10 +11,10 @@ Establishing a simple web server by combining **Node.js** with **Express.js** fo
 
 ### 1. Setting Up the GitHub Repository
 - Through GitHub, the `sit737-2025-prac2p` repository was established as the new project management space.
-- User-employed GitHub Codespaces functioned as the development environment to enable cloud-based coding and testing.
+- User-employed VS-code functioned as the development environment to enable cloud-based coding and testing.
 
 ### 2. Initialising the Node.js Project
-- The terminal of VS code verified the installation of Node.js and npm.
+- The terminal of VS-code verified the installation of Node.js and npm.
 - The `package.json` file for project dependency management was automatically created through the `npm init -y` command execution for initiating a new Node.js project.
 
 ### 3. Installing Dependencies
@@ -34,7 +34,7 @@ Establishing a simple web server by combining **Node.js** with **Express.js** fo
 - The server successfully operated at `http://localhost:3000` after the output indicated successful server functionality.
 
 ### 7. Verifying the Web Page
-- A test of the application used **port 3000** forwarding within GitHub Codespaces.
+- A test of the application used **port 3000** forwarding within VS-code.
 - A browser was used to load the page which confirmed that the HTML file transmitted correctly.
 
 ### 8. Committing and Pushing Code to GitHub
