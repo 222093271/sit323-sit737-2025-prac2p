@@ -1,4 +1,4 @@
-# SIT737-2025-Prac2P 
+# SIT323/SIT737-2025-Prac2P 
 ## Task 2.1P: Node.js and Express
 
 ## Author
