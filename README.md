@@ -2,7 +2,7 @@
 ## Task 2.1P: Node.js and Express
 
 ## Author
-- Inwang ubong Marshal (222092371)
+- Inwang Ubong Marshal (222092371)
 
 ## Project Overview
 Establishing a simple web server by combining **Node.js** with **Express.js** for static HTML hosting is the main task addressed in this project. The assignment consists of teaching students Node.js setup procedures and web server creation together with Express.js based webpage hosting practices which form its primary focus.
@@ -10,7 +10,7 @@ Establishing a simple web server by combining **Node.js** with **Express.js** fo
 ## Process Undertaken
 
 ### 1. Setting Up the GitHub Repository
-- Through GitHub, the `sit737-2025-prac2p` repository was established as the new project management space.
+- Through GitHub, the `sit323-sit737-2025-prac2p` repository was established as the new project management space.
 - User-employed VS-code functioned as the development environment to enable cloud-based coding and testing.
 
 ### 2. Initialising the Node.js Project
